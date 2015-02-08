@@ -1,0 +1,13 @@
+.background {
+	background-image: url(paper.jpg);
+	opacity: 0.2; 
+	filter: alpha(opacity=20);
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
